@@ -1,0 +1,2 @@
+﻿in sql server click right on databases
+then click import data tier application and use this database
